@@ -14,7 +14,7 @@ The script is **brittle** and contingent on leetcode not changing their problems
 2. *Click* **extensions** and *select* **TamperMonkey**,
 3. *Click* **Create a new script...** and *select* the **Utilities** tab.
    
-	![Create new script](assets/2-create-new-script.png)
+	![Create a new script](assets/2-create-new-script.png)
 
 	![Utilities tab](assets/3-utilities-tab.png)
 
