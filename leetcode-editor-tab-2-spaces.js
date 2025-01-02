@@ -18,13 +18,16 @@
 async function toggleLeetCodeEditor() {
 
   // Wait for dom elements to load (error prone / jank)
-  const wait = () => {
+  const wait = (time) => {
     return new Promise((res, rej) => {
       setTimeout(() => {
         res()
-      }, 100)
+      }, time || 100)
     })
   }
+
+  // Wait for page to load. Loading to quickly won't fix the editor. (error prone / jank)
+  await wait(2000)
 
 
   // Click settings icon
