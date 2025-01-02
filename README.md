@@ -12,9 +12,9 @@ The script is **brittle** and contingent on leetcode not changing their problems
 
 1. Download & install [TamperMonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 2. *Click* **extensions** and *select* **TamperMonkey**,
-3. *Click* **Create new Script...** and *select* the **Utilities** tab.
+3. *Click* **Create a new script...** and *select* the **Utilities** tab.
    
-	![Import from URL](assets/2-create-new-script.png)
+	![Create new script](assets/2-create-new-script.png)
 
 	![Utilities tab](assets/3-utilities-tab.png)
 
