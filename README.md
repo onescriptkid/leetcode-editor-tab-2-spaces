@@ -20,7 +20,7 @@ The script is **brittle** and contingent on leetcode not changing their problems
 
 4. *Copy & paste* the raw url into **Import from URL** and *click* **Install**.
 	```
-	https://raw.githubusercontent.com/onescriptkid/leetcode-editor-tab-2-spaces/refs/heads/master/leetcode-editor-tab-2-spaces.j
+	https://raw.githubusercontent.com/onescriptkid/leetcode-editor-tab-2-spaces/refs/heads/master/leetcode-editor-tab-2-spaces.js
 	```
 	![Import from URL](assets/4-import-from-url.png)
 
