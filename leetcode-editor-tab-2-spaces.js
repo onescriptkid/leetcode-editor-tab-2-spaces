@@ -1,3 +1,19 @@
+// ==UserScript==
+// @name         Leetcode editor tab 2 spaces
+// @namespace    http://tampermonkey.net/
+// @version      2025-01-01
+// @description  Set leetcode editor tab to 2 spaces
+// @author       onescriptkid
+// @match        https://leetcode.com/problems/*/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
+// @grant        none
+// ==/UserScript==
+
+// Match examples
+// https://leetcode.com/problems/*/*
+// https://leetcode.com/problems/two-sum/description/
+// https://leetcode.com/problems/two-sum/solutions/
+
 // Toggle Leetcode editor spaces
 async function toggleLeetCodeEditor() {
 
